@@ -414,3 +414,7 @@ here before sharing this project externally._
   is no server-side chat persistence.
 - CSV export streams the full filtered result set in one response (no server-side
   pagination on export) — fine at this data scale, would need chunking at much larger scale.
+  <img width="1677" height="929" alt="Screenshot 2026-09-11 at 1 25 44 PM" src="https://github.com/user-attachments/assets/75e5d130-e255-44a1-8d91-21744e23c750" />
+<img width="1677" height="929" alt="Screenshot 2026-09-11 at 1 25 16 PM" src="https://github.com/user-attachments/assets/916c1f72-fac5-484f-b3fe-9c55e1aa654e" />
+<img width="3354" height="1858" alt="image" src="https://github.com/user-attachments/assets/2fdb18db-8f15-4298-9cfb-fb195dfea2bd" />
+
